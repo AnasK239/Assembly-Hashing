@@ -6,4 +6,5 @@ The way you input the necessary parameters to the code is using the CLI command 
 
 The output value will be stored in memory starting from address (0x10010000) (first data address in mars) and saved in registers $V0 and $s0
 
- ![alt text]({EC769EF9-2CCB-4282-8B5B-0A4B4C991377}.png)
+![{EC769EF9-2CCB-4282-8B5B-0A4B4C991377}](https://github.com/user-attachments/assets/20b4ac94-1c83-42d7-a415-773b727dc2ce)
+
