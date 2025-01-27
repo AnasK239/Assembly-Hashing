@@ -1,4 +1,4 @@
-#**Important Notes**
+## Important Notes
 
 This project doesnt contain a GUI its a single .asm file that you can run locally on MARS MIPS simulator.
 
