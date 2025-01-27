@@ -15,7 +15,7 @@ hash_fn:
         sw   $s1, 8($sp)
         addi $s0,$0,0x53 
         
-        add $s1 $a0,$0			#input number  #s1 = input
+        add $s1,$a0,$0			#input number  #s1 = input
 	
 			# bits 31-24
 	srl $t0,$s1,24
