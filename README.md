@@ -1,6 +1,8 @@
 ## Important Notes
 
-This project doesnt contain a GUI its a single .asm file that you can run locally on MARS MIPS simulator.
+This project doesn't contain a GUI its a single .asm file that you can run locally on MARS MIPS simulator.
+
+This project doesn't use any pesudo-instructions
 
 The way you input the necessary parameters to the code is using the CLI command java -jar mars.jar hashing.asm pa (initial-integer-value)   
 
