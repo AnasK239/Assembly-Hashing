@@ -4,7 +4,7 @@ main:
         add $a0,$v0,$0
         jal hash_fn
         lui $t3 , 0x1001
-	sw  $v0 ,0($t3)
+	sw  $v0 ,0($t3)wawa
 	add $s0 , $0 , $v0
         j exitprog
 
